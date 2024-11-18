@@ -1,0 +1,6 @@
+@ApiSistemaStreaming_HostAddress = http://localhost:5119
+
+GET {{ApiSistemaStreaming_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
